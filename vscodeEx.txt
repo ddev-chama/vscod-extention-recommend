@@ -1,0 +1,5 @@
+code --install-extension bestvow.css-compressor
+code --install-extension donjayamanne.jquerysnippets
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension thekalinga.bootstrap4-vscode
+code --install-extension Zignd.html-css-class-completion
